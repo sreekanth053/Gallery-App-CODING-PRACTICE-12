@@ -1,0 +1,22 @@
+.thumbnail-list-item {
+  margin-right: 16px;
+  list-style-type: none;
+  margin-bottom: 16px;
+}
+
+.thumbnail-button {
+  background: transparent;
+  border: none;
+  padding-left: 0px;
+  outline: none;
+  cursor: pointer;
+}
+
+.thumbnail {
+  width: 60px;
+  height: 60px;
+  opacity: 0.5;
+}
+.active {
+  opacity: 1;
+}
